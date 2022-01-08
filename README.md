@@ -1,6 +1,6 @@
 # mousepos
 
-## ⚖ License
+## License
 
 Copyright (c) 2020-present Takeshi Katano. All rights reserved. This software is released under the [MIT License](https://github.com/tksh164/mousepos/blob/main/LICENSE).
 
