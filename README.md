@@ -1,5 +1,7 @@
 # mousepos
 
+A command-line tool that moves the mouse pointer position to a specified location.
+
 ## License
 
 Copyright (c) 2020-present Takeshi Katano. All rights reserved. This software is released under the [MIT License](https://github.com/tksh164/mousepos/blob/main/LICENSE).
